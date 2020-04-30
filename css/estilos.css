@@ -1,0 +1,79 @@
+html {
+	scroll-behavior: smooth;
+}
+
+  #logo {
+	height: 70px;
+}
+
+div img { width: 300px;
+}
+
+
+/*inicio*/
+.carousel-inicio {
+margin-bottom: 100px;
+}
+
+
+/*como comprar*/
+.como-comprar {
+	text-align: center;
+	margin-bottom: 70px;
+}
+
+/*Productos*/
+
+.productos {
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*Novedades*/
+
+.novedades {
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+
+/*Quienes somos*/
+
+
+.quienessomos {
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+/*Contacto*/
+
+.formulario-contacto {
+	margin-bottom: 70px;
+	padding-top: 100px;
+}
+
+.boton-formulario {
+	background-color: sandybrown;
+}
+
+/*Texto*/
+
+h1 {
+	padding-bottom: 10px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2, h3, p {
+	text-align: center;
+}
+
+legend {
+	text-decoration: underline;
+}
+
+footer {
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}

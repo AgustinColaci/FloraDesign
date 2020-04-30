@@ -1,0 +1,102 @@
+@charset "UTF-8";
+html {
+  scroll-behavior: smooth;
+}
+
+#logo {
+  height: 70px;
+}
+
+div img {
+  width: 300px;
+}
+
+/*Menu de navegación*/
+.nav-item :hover {
+  color: sandybrown;
+}
+
+.item-menu :hover {
+  color: sandybrown;
+}
+
+/*inicio*/
+.tamaño-carousel {
+  height: 600px;
+}
+
+.tamaño-carousel .imagenes-carousel {
+  height: 100%;
+  /*¿Cómo puedo adaptar el tamaño de las imagenes al tamaño del carousel sin que las corte?*/
+}
+
+.carousel-inicio {
+  margin-bottom: 100px;
+}
+
+/*como comprar*/
+.como-comprar {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+/*Productos*/
+.productos {
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+/*Novedades*/
+.novedades {
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+/*Quienes somos*/
+.quienessomos {
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+/*Contacto*/
+.formulario-contacto {
+  margin-bottom: 70px;
+  padding-top: 100px;
+}
+
+.btn {
+  background-color: sandybrown;
+  color: white;
+}
+
+/*Texto*/
+h1 {
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2, h3 {
+  text-align: center;
+  font-size: 30px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+legend {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  background-color: sandybrown;
+  color: white;
+}
+
+.text-footer {
+  font-size: 15px;
+}
+/*# sourceMappingURL=style.css.map */
